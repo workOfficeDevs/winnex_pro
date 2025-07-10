@@ -4,7 +4,7 @@
   "type": "module",
   "license": "MIT",
   "scripts": {
-    "start": "node dist/index.js",
+    "start": "node server/index.js",
     "build": "echo 'Build completed'",
     "db:push": "drizzle-kit push"
   },

@@ -52,7 +52,7 @@ var __generator = (this && this.__generator) || function (thisArg, body) {
 };
 Object.defineProperty(exports, "__esModule", { value: true });
 exports.storage = exports.DatabaseStorage = void 0;
-var schema_1 = require("@shared/schema");
+var schema_1 = require('../shared/schema');
 var db_1 = require("./db");
 var drizzle_orm_1 = require("drizzle-orm");
 var DatabaseStorage = /** @class */ (function () {
